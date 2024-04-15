@@ -19,6 +19,6 @@
     "typescript": "^5.4.5"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@vishesh1352"
+    "@Vishesh1352:registry": "https://npm.pkg.github.com/"
   }
 }

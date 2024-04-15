@@ -7,7 +7,7 @@
     "test": "exit 0"
   },
   "publishConfig": {
-    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+    "@Vishesh1352:registry": "https://npm.pkg.github.com"
   },
   "author": "vishesh",
   "license": "ISC"

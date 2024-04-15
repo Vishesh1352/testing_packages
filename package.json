@@ -7,6 +7,10 @@
     "build": "tsc",
     "deploy": "npm publish"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishesh1352/testing_packages.git"
+  },
   "author": "vishesh",
   "license": "ISC",
   "dependencies": {

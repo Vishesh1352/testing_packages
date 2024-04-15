@@ -1,8 +1,8 @@
 {
-  "name": "testing_packages",
+  "name": "@vishesh1352/testing_packages",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
     "deploy": "npm publish"
@@ -19,6 +19,6 @@
     "typescript": "^5.4.5"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@vishesh1352"
+    "registry": "https://npm.pkg.github.com"
   }
 }
